@@ -1,8 +1,10 @@
 # WGU D276 Web Development Foundations Performance Assessment
 
-## Status
+### ⚠️ Academic Integrity Warning
+This repository is for **reference only**. WGU students are strictly prohibited from copying this code for their own submissions. Per the WGU Academic Authenticity policy, using another student's work as your own can lead to disciplinary action, including program dismissal. Please use this only to understand the structural requirements of the assessment.
 
-**This repository is stored PRIVATELY to comply with WGU Academic Authenticity guidelines and institutional integrity policies.**
+### 📋 Status: Public Archive (Redacted)
+To maintain institutional integrity and personal privacy, all personal identification, contact details, and specific work history have been removed and replaced with generic placeholders. This repository now serves as a **technical template** to demonstrate competency in HTML5, CSS3, and basic JavaScript.
 
 ---
 
